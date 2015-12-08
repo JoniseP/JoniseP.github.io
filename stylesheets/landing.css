@@ -1,0 +1,70 @@
+.portrait {
+    max-width:auto;
+    max-height:250px;
+}
+
+.jumbotron{
+    text-align:center;
+    margin-bottom:10px;
+    height:500px;
+    padding-top:50px;
+}
+
+.portrait_name{
+    width:320px;
+    margin:0 auto;
+    padding:20px;
+    border-radius:20px;
+}
+
+.thumbnail_space{
+    max-width:90%;
+    margin:0 auto;
+}
+
+.thumbnail_image{
+  max-height:200px;
+  max-width:242px;
+}
+
+article{
+    width:90%;
+    margin:0 auto;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:10px;
+}
+
+footer{
+    height:100px;
+    text-align:center;
+    padding:20px;
+}
+
+.portrait_name{
+    font-family: 'Audiowide', cursive;
+}
+
+
+article{
+    background:#FCECD5;
+}
+
+footer{
+    background:#FCECD5;
+}
+
+.jumbotron{
+  background: url('http://i482.photobucket.com/albums/rr181/JonisePeoples/IMG_3466_zpsmtzulcof.jpg') no-repeat center;
+  background-size: cover;
+}
+
+.portrait_name{
+    background: rgba(230, 230, 230, 0.7);
+}
+
+body {
+    background: #DB674C;
+}
+
+
