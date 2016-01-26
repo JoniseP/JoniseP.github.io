@@ -4,15 +4,16 @@ iframe{
 }
 
 .jumbotron{
-    background: #FFCBAC;
+    background: ;
 }
 
 footer{
-    background: #FFCBAC;
+    background: #856941;
 }
 
 body {
-    background: #DB674C;
+    background: #5F6024;
+    font-family: 'Lobster', cursive;
 }
 img {
     width: 300px;
@@ -23,6 +24,11 @@ img {
 img:hover, a:hover {
     background-color: silver;
 }
+
+li {
+    background-color: #805489;
+}
+
 /*
   Built Mobile First: All Generic sizing and layouts are placed in main part of CSS. 
   All sizing and layout changes specific to screen sizes is down in media-query area.

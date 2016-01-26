@@ -51,7 +51,7 @@ article{
     padding:10px;
     border-radius:10px;
     margin-bottom:10px;
-    background: #FFCBAC;
+    background: #4CA8A1;
 }
 
 /**********************************
@@ -61,7 +61,7 @@ footer{
     height:100px;
     text-align:center;
     padding:20px;
-     background: #FFCBAC;
+     background: #7EC2AA;
 }
 
 /**********************************
@@ -87,11 +87,11 @@ Color 1:
 ***********************************/
 
 article{
-    background:#eee;
+    background:#BCC747;
 }
 
 footer{
-    background:#eee;
+    background:#BCC747;
 }
 
 .jumbotron{
@@ -104,9 +104,14 @@ footer{
 }
 
 body {
-    background: #DB674C;
+    background: #7EC2AA;
+    font-family: 'Lobster', cursive;
 }
 
 img:hover, a:hover {
     background-color: silver;
+}
+
+content {
+    background-color: #7EC2AA;
 }
