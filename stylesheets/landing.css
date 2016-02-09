@@ -42,7 +42,7 @@ MAIN CONTENT
 
 .thumbnail_image{
   max-height:200px;
-  max-width:242px;
+  max-width:240px;
 }
 
 article{
@@ -105,7 +105,7 @@ footer{
 
 body {
     background: #7EC2AA;
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', sans-serif;
 }
 
 img:hover, a:hover {
@@ -115,3 +115,4 @@ img:hover, a:hover {
 content {
     background-color: #7EC2AA;
 }
+

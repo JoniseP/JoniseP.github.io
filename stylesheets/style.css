@@ -26,6 +26,7 @@ li {
     background-color: #80548;
 }
 
+
 /*
   Built Mobile First: All Generic sizing and layouts are placed in main part of CSS. 
   All sizing and layout changes specific to screen sizes is down in media-query area.
