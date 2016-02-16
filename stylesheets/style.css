@@ -44,6 +44,10 @@ p:first-letter{
 	font-size: 14pt;
 	font-variant: small-caps;
         }
+        
+        p {
+            color: black ;
+        }
     
 
 
