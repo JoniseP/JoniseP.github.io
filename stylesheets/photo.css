@@ -1,0 +1,26 @@
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: center;
+    width: 800px;
+    height: 700px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+    width: 800px;
+    height: 700px;
+    float: center;
+}
+
+div.img img {
+    width: 800px;
+    height: 600px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    float:center;
+}   
+
