@@ -18,6 +18,10 @@ HEADER
     max-height:250px;
 }
 
+h2 {
+    font-family: 'Audiowide', cursive;
+}
+
 .jumbotron{
     text-align:center;
     margin-bottom:10px;
@@ -115,4 +119,5 @@ img:hover, a:hover {
 content {
     background-color: #7EC2AA;
 }
+
 
